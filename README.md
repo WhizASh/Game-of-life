@@ -9,4 +9,4 @@ Pygames
 ![demo](https://github.com/WhizASh/Game-of-life/blob/main/demo.gif)
 
 # To Run
-python main.py
+`python main.py`
