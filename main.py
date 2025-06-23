@@ -72,7 +72,7 @@ grid = [[Cell(pygame.Surface((29,29)),i*x,j) for i in range(num)] for j in range
 # surf = pygame.Surface((50,50))
 
 
-#startup
+#startup co-ordinates
 grid[5][5].set_color('white')
 grid[5][4].set_color('white')
 grid[6][5].set_color('white')
